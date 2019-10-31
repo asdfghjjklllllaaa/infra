@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "bower": "^1.8.4",
+    "bower": "^1.8.8",
     "@chopsui/wct-runner": "0.0.1"
   }
 }
